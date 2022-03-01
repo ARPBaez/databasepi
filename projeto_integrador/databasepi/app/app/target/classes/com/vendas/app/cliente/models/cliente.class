@@ -1,0 +1,8 @@
+Êþº¾   7 &  )com/vendas/app/cliente/models/cliente  java/lang/Object id J nome Ljava/lang/String; email <init> ()V Code
+   
+  LineNumberTable LocalVariableTable this +Lcom/vendas/app/cliente/models/cliente; getId ()J	     setId (J)V MethodParameters getNome ()Ljava/lang/String;	     setNome (Ljava/lang/String;)V getEmail	  " 	  setEmail 
+SourceFile cliente.java !                 	      
+      /     *· ±                               /     *´ ­                               >     *µ ±       
+                                       /     *´ °                               >     *+µ ±       
+                                        /     *´ !°                         #      >     *+µ !±       
+    #  $                	       	    $    %
